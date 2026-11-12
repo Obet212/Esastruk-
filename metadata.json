@@ -1,0 +1,6 @@
+{
+  "name": "ESA STRUK - Cetak Struk Digital",
+  "description": "Aplikasi cetak struk digital dan thermal printer serbaguna untuk kasir retail, bukti transfer bank, token PLN, F&B, dan cetak thermal 58mm/80mm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
